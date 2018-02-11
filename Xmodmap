@@ -1,0 +1,8 @@
+keycode 66 = Alt_L
+keycode 69 = Alt_R
+
+keycode 133 = Down
+keycode 134 = Up
+
+add mod4 = Alt_L
+add mod4 = Alt_R
